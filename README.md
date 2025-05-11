@@ -14,9 +14,17 @@ I wanted to create something that's:
 
 Here's what you get:
 
-| Home | Experience | Projects |
-|------|------------|----------|
-| ![Home Page](./public/screenshots/home.png) | ![Experience Page](./public/screenshots/exp.png) | ![Projects Page](./public/screenshots/projects.png) |
+Home 
+
+![Home Page](./public/screenshots/home.png)
+
+Experience
+
+![Experience Page](./public/screenshots/exp.png)
+
+Projects
+
+![Projects Page](./public/screenshots/projects.png) 
 
 ## 🚀 Getting Started
 
