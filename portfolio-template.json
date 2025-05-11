@@ -1,0 +1,88 @@
+{
+  "siteConfig": {
+    "title": "Ganesh",
+    "favicon": "https://img.icons8.com/bubbles/100/g.png",
+    "font": "Poppins"
+  },
+  "personalInfo": {
+    "name": "Ganesh",
+    "title": "Nerdy Tech Explorer",
+    "profileImage": "./src/components/Images/profile.gif",
+    "verifiedBadge": "https://cdn3.emoji.gg/emojis/2089-instagram-verified.png",
+    "bio": "I'm a rookie web engineer and design enthusiast who loves creating clean, user-friendly interfaces. I enjoy simplifying complex concepts to make learning and coding more fun. When I'm not coding, you'll find me immersed in anime or lost in music - both of which fuel my creativity and provide a fresh perspective on design and development."
+  },
+  "socialLinks": [
+    {
+      "name": "Github",
+      "href": "https://github.com/mc095"
+    },
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/ganesh097/"
+    },
+    {
+      "name": "Contact",
+      "href": "https://wa.me/918008149866"
+    },
+    {
+      "name": "Spotify ✨",
+      "href": "https://open.spotify.com/user/31eiobsw6mvowylhyokvhodph6tu"
+    }
+  ],
+  "experiences": [
+    {
+      "date": "Jan 2024 - Mar 2024",
+      "role": "Web Developer Intern",
+      "company": "Sysbolt India",
+      "companyLink": "https://www.linkedin.com/company/sysbolt/posts/?feedView=all",
+      "description": "Worked as a Web Development Intern at Sysbolt India, focusing on CSS and JavaScript. Gained experience with CMS platforms like Shopify and WordPress. Additionally, explored serverless architecture on Azure, enhancing my understanding of cloud computing and modern web development practices.",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "Shopify",
+        "WordPress",
+        "Azure",
+        "Serverless"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "Distress Support Chatbot",
+      "description": "Ashley is a mental health chatbot built with React, Streamlit, and Hugging Face Phi-3 model. It offers empathetic conversations, sentiment analysis, and real-time chat interactions to provide support and companionship.",
+      "link": "https://ashhealth07.netlify.app/",
+      "technologies": [
+        "React",
+        "Streamlit",
+        "Hugging Face API",
+        "Bootstrap",
+        "TextBlob",
+        "LangChain"
+      ]
+    },
+    {
+      "title": "Job Portal",
+      "description": "A job portal built with the MERN stack (MongoDB, Express.js, React, Node.js), enabling recruiters to manage job listings and employers to post jobs. It features user authentication, job posting, real-time notifications, and a responsive design.",
+      "link": "https://mern-app-job-portal.vercel.app/",
+      "technologies": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS",
+        "JWT",
+        "Firebase"
+      ]
+    },
+    {
+      "title": "E-Commerce Application",
+      "description": "A basic E-Commerce app built with Next.js, allowing users to browse products, add them to the cart. Ensuring smooth and dynamic product listings.",
+      "link": "https://bloom-store-sooty.vercel.app/",
+      "technologies": [
+        "Next.js",
+        "React",
+        "Canvas Confetti"
+      ]
+    }
+  ]
+}
