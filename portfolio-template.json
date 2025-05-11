@@ -7,7 +7,7 @@
   "personalInfo": {
     "name": "Ganesh",
     "title": "Nerdy Tech Explorer",
-    "profileImage": "./src/components/Images/profile.gif",
+    "profileImage": "https://cdn.pfps.gg/pfps/9970-komi-san-surprise.gif",
     "verifiedBadge": "https://cdn3.emoji.gg/emojis/2089-instagram-verified.png",
     "bio": "I'm a rookie web engineer and design enthusiast who loves creating clean, user-friendly interfaces. I enjoy simplifying complex concepts to make learning and coding more fun. When I'm not coding, you'll find me immersed in anime or lost in music - both of which fuel my creativity and provide a fresh perspective on design and development."
   },
